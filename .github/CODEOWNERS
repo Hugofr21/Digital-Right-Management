@@ -1,0 +1,11 @@
+# All on project
+*       @team-dev
+
+# Backend
+/backend/   @backend-team
+
+# Frontend
+/frontend/  @frontend-team
+
+# Arquivo crítico
+/infra/     @devops-team
