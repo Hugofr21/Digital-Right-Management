@@ -1,0 +1,13 @@
+name: DRM
+version: 0.0.1
+repository:
+  url: https://github.com/hugofr21/DRM
+  default_branch: main
+status:
+  phase: development
+  updated: 2026-06-04
+governance:
+  snapshot: docs/governance-snapshot.md
+maintainer:
+  name: Hugo
+  github: hugofr21
